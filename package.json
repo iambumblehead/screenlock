@@ -1,0 +1,17 @@
+{
+  "name": "screenlock",
+  "main": "screenlock",
+  "version": "0.0.1",
+  "description": "try screenlock.lock() ad screenlock.unlock() without error",
+  "author": "Chris <chris@bumblehead.com>",
+  "license" : "MIT",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iambumblehead/screenlock.git"
+  },
+  "keywords": [
+    "screenlock",
+    "orientation.lock"
+  ]
+}
